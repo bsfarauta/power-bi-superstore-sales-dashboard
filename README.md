@@ -25,7 +25,8 @@ Built an interactive sales dashboard to analyze Superstore sales data with dynam
 Power BI Desktop, DAX (Total Sales, Total Profit, Profit %)
 
 ### 📸 Dashboard Preview
-All States View | California Filter | Arizona Filter
+![All States](ALL%20STATE.jpeg)
+![California Filter](CALIFORNIA.jpeg)
 
 ---
 Created by Bhupendra Singh
